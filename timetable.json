@@ -1,0 +1,342 @@
+{
+	"AI&DS 104": {
+		"Monday": {
+			"ITA_1": {
+				"start": "08:30",
+				"end": "09:20",
+				"type": "Theory",
+				"faculty": "None"
+			},
+			"ITA_2": {
+				"start": "09:20",
+				"end": "10:10",
+				"type": "Theory",
+				"faculty": "None"
+			},
+			"CV_1": {
+				"start": "10:30",
+				"end": "11:20",
+				"type": "Theory",
+				"faculty": "Mr Anantha Kumar Sir"
+			},
+			"CV_2": {
+				"start": "11:20",
+				"end": "12:10",
+				"type": "Theory",
+				"faculty": "Mr Anantha Kumar Sir"
+			},
+			"DL_LAB_1": {
+				"start": "14:00",
+				"end": "14:50",
+				"type": "Lab",
+				"faculty": "Mrs Kola Mam"
+			},
+			"DL_LAB_2": {
+				"start": "14:50",
+				"end": "15:40",
+				"type": "Lab",
+				"faculty": "Mrs Kola Mam"
+			},
+			"DL_LAB_3": {
+				"start": "15:40",
+				"end": "16:30",
+				"type": "Lab",
+				"faculty": "Mrs Kola Mam"
+			}
+		},
+		"Tuesday": {
+			"DLT_1": {
+				"start": "08:30",
+				"end": "09:20",
+				"type": "Theory",
+				"faculty": "Mr Vijay Sir"
+			},
+			"CV_3": {
+				"start": "09:20",
+				"end": "10:10",
+				"type": "Theory",
+				"faculty": "Mr Anantha Kumar Sir"
+			},
+			"IOT_1": {
+				"start": "10:30",
+				"end": "11:20",
+				"type": "Theory",
+				"faculty": "Dr Rajesh Sir"
+			},
+			"IOT_2": {
+				"start": "11:20",
+				"end": "12:10",
+				"type": "Theory",
+				"faculty": "Dr Rajesh Sir"
+			},
+			"IOT_3": {
+				"start": "13:10",
+				"end": "14:00",
+				"type": "Theory",
+				"faculty": "Dr Rajesh Sir"
+			},
+			"ITA_3": {
+				"start": "14:00",
+				"end": "14:50",
+				"type": "Theory",
+				"faculty": "None"
+			},
+			"ITA_4": {
+				"start": "14:50",
+				"end": "15:40",
+				"type": "Theory",
+				"faculty": "None"
+			}
+		},
+		"Wednesday": {
+			"NM_LAB_1": {
+				"start": "08:30",
+				"end": "09:20",
+				"type": "Lab",
+				"faculty": "Hari Sir"
+			},
+			"NM_LAB_2": {
+				"start": "09:20",
+				"end": "10:10",
+				"type": "Lab",
+				"faculty": "Hari Sir"
+			},
+			"NM_LAB_3": {
+				"start": "10:30",
+				"end": "11:20",
+				"type": "Lab",
+				"faculty": "Hari Sir"
+			},
+			"NM_LAB_4": {
+				"start": "11:20",
+				"end": "12:10",
+				"type": "Lab",
+				"faculty": "Hari Sir"
+			},
+			"AAI_1": {
+				"start": "13:10",
+				"end": "14:00",
+				"type": "Theory",
+				"faculty": "Mrs Uma Mam"
+			},
+			"ITA_5": {
+				"start": "14:00",
+				"end": "14:50",
+				"type": "Theory",
+				"faculty": "None"
+			},
+			"ITA_6": {
+				"start": "14:50",
+				"end": "15:40",
+				"type": "Theory",
+				"faculty": "None"
+			},
+			"LIB_1": {
+				"start": "15:40",
+				"end": "16:30",
+				"type": "Library",
+				"faculty": "None"
+			}
+		},
+		"Thursday": {
+			"IOT_LAB_1": {
+				"start": "08:30",
+				"end": "09:20",
+				"type": "Lab",
+				"faculty": "Dr Rajesh Sir"
+			},
+			"IOT_LAB_2": {
+				"start": "09:20",
+				"end": "10:10",
+				"type": "Lab",
+				"faculty": "Dr Rajesh Sir"
+			},
+			"IOT_LAB_3": {
+				"start": "10:30",
+				"end": "11:20",
+				"type": "Lab",
+				"faculty": "Dr Rajesh Sir"
+			},
+			"IOT_LAB_4": {
+				"start": "11:20",
+				"end": "12:10",
+				"type": "Lab",
+				"faculty": "Dr Rajesh Sir"
+			},
+			"OE_1": {
+				"start": "13:10",
+				"end": "14:00",
+				"type": "Theory",
+				"faculty": "Respective OE Teachers"
+			},
+			"MLOPS_1": {
+				"start": "14:00",
+				"end": "14:50",
+				"type": "Theory",
+				"faculty": "Mrs Seetha Mam"
+			},
+			"DLT_2": {
+				"start": "14:50",
+				"end": "15:40",
+				"type": "Theory",
+				"faculty": "Mr Vijay Sir"
+			},
+			"DLT_3": {
+				"start": "15:40",
+				"end": "16:30",
+				"type": "Theory",
+				"faculty": "Mr Vijay Sir"
+			}
+		},
+		"Friday": {
+			"MLOPS_2": {
+				"start": "08:30",
+				"end": "09:20",
+				"type": "Theory",
+				"faculty": "Mrs Seetha Mam"
+			},
+			"MLOPS_3": {
+				"start": "09:20",
+				"end": "10:10",
+				"type": "Theory",
+				"faculty": "Mrs Seetha Mam"
+			},
+			"OE_2": {
+				"start": "10:30",
+				"end": "11:20",
+				"type": "Theory",
+				"faculty": "Respective OE Teachers"
+			},
+			"SRP_LAB_1": {
+				"start": "11:20",
+				"end": "12:10",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_2": {
+				"start": "13:10",
+				"end": "14:00",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_3": {
+				"start": "14:00",
+				"end": "14:50",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_4": {
+				"start": "14:50",
+				"end": "15:40",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_5": {
+				"start": "15:40",
+				"end": "16:30",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			}
+		},
+		"Saturday": {
+			"MLOPS_2": {
+				"start": "08:30",
+				"end": "09:20",
+				"type": "Theory",
+				"faculty": "Mrs Seetha Mam"
+			},
+			"MLOPS_3": {
+				"start": "09:20",
+				"end": "09:30",
+				"type": "Theory",
+				"faculty": "Mrs Seetha Mam"
+			},
+			"OE_2": {
+				"start": "09:30",
+				"end": "11:20",
+				"type": "Theory",
+				"faculty": "Respective OE Teachers"
+			},
+			"SRP_LAB_1": {
+				"start": "11:20",
+				"end": "12:10",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_2": {
+				"start": "13:10",
+				"end": "14:00",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_3": {
+				"start": "14:00",
+				"end": "14:50",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_4": {
+				"start": "14:50",
+				"end": "15:40",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_5": {
+				"start": "15:40",
+				"end": "16:30",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			}
+		},
+		"Sunday": {
+			"MLOPS_2": {
+				"start": "08:30",
+				"end": "09:20",
+				"type": "Theory",
+				"faculty": "Mrs Seetha Mam"
+			},
+			"MLOPS_3": {
+				"start": "09:20",
+				"end": "09:30",
+				"type": "Theory",
+				"faculty": "Mrs Seetha Mam"
+			},
+			"OE_2": {
+				"start": "09:30",
+				"end": "11:20",
+				"type": "Theory",
+				"faculty": "Respective OE Teachers"
+			},
+			"SRP_LAB_1": {
+				"start": "11:20",
+				"end": "12:10",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_2": {
+				"start": "13:10",
+				"end": "14:00",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_3": {
+				"start": "14:00",
+				"end": "14:50",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_4": {
+				"start": "14:50",
+				"end": "15:40",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			},
+			"SRP_LAB_5": {
+				"start": "15:40",
+				"end": "16:30",
+				"type": "Lab",
+				"faculty": "HOD Sumalatha Mam"
+			}
+		}
+	}
+}
